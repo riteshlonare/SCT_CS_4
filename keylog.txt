@@ -1,0 +1,1 @@
+[esc][esc]hello[space]world[space][shift_r]!!![enter][esc][ctrl_l][esc]
